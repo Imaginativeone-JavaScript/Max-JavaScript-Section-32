@@ -1,12 +1,12 @@
-Section 32: Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional) 0/7 | 43min
-- [ ] 537. Module Introduction | 1min
-- [ ] 538. What are Programming Paradigms? | 3min
-  - How my code is organized
-- [ ] 539. Procedural Programming in Practice | 9min
-  - Top to Bottom
-- [ ] 540. Object Oriented Programming in Practice | 13min
-  - Summary of OOP Section
-- [ ] 541. Functional Programming in Practice | 14min
-  - The "things" are not objects, but rather "logical blocks"
-- [ ] 542. Wrap Up | 3min
-- [ ] 543. Useful Resources & Links | 1min
+- [ ] Section 32: Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional) 0/7 | 43min
+  - [ ] 537. Module Introduction | 1min
+  - [ ] 538. What are Programming Paradigms? | 3min
+    - How my code is organized
+  - [ ] 539. Procedural Programming in Practice | 9min
+    - Top to Bottom
+  - [ ] 540. Object Oriented Programming in Practice | 13min
+    - Summary of OOP Section
+  - [ ] 541. Functional Programming in Practice | 14min
+    - The "things" are not objects, but rather "logical blocks"
+  - [ ] 542. Wrap Up | 3min
+  - [ ] 543. Useful Resources & Links | 1min
